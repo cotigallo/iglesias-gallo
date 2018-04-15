@@ -138,3 +138,17 @@ var msnry = new Masonry( portafolio, {
 </script>
 </body>
 </html>
+
+
+.item figure img{
+	width:100%; 
+	height:auto; 
+	margin-bottom:-4px;
+	filter: grayscale(1);
+}
+
+.item:hover figure img{
+	transform:scale(1.25);
+	filter: grayscale(0);	
+	transition:all ease-out 0.5s;
+	
