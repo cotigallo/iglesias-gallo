@@ -42,7 +42,13 @@ h5{
 
 }
 
-h4, h6{
+h6{
+	color:rgba(255,232,2,1); 
+	font-weight:left;
+	font-weight:600; 
+}
+
+h4{
 	color:rgba(0,0,0,.75);
 	font-weight:left;
 	font-weight:600; 	
