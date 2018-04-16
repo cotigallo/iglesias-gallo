@@ -97,7 +97,7 @@ video{
 }
 
 .primera{
-	min-height:300px;
+	min-height:400px;
 	text-align:left;
 	background-color:rgba(255, 255, 255, 1);
 	background-image:url('media/dupla-01.jpg');
@@ -114,7 +114,7 @@ video{
 .primera address{padding: 2% 40% 2% 2%; font-size:0.9em; font-style:normal;}
 
 .segunda{
-	min-height:300px;
+	min-height:400px;
 	text-align:right;
 	background-color:rgba(255, 255, 255, 1);
 	background-image:url('media/dupla-02.jpg');
