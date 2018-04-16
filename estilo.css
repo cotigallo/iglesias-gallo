@@ -43,13 +43,13 @@ h5{
 }
 
 h6{
-	color:rgba(255,232,2,1); 
+	color:rgba(0,0,0,0.75); 
 	font-weight:auto;
 	font-weight:600; 
 }
 
 h4{
-	color:rgba(0,0,0,.75);
+	color:rgba(255, 232, 2, 1.0);
 	font-weight:left;
 	font-weight:600; 	
 }
